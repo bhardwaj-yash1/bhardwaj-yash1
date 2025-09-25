@@ -1,4 +1,4 @@
-````markdown
+
 Hi 👋 I'm Yash Bhardwaj
 
 ### 💫 About Me:
