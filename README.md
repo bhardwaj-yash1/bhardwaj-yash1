@@ -1,30 +1,30 @@
-### Hi 👋 I'm Yash Bhardwaj
+<h1 align="center">Hi 👋 I'm Yash Bhardwaj</h1>
 
 ---
 
-### 💫 About Me:
+## 💫 About Me:
 
-I'm a Computer Engineering student with a passion for Machine Learning, Natural Language Processing, and MLOps. I have a proven track record of building and deploying **end-to-end AI applications**, from initial data analysis to containerized deployment. I'm actively seeking an AI or Data Science internship to contribute to impactful projects and further develop my technical skills.
+A Computer Engineering student passionate about **Machine Learning** 🧠, **NLP**, and **MLOps**. I love building and deploying end-to-end AI applications 🚀 and I'm actively seeking an AI or Data Science internship to contribute to impactful projects.
 
 ---
 
-### 🚀 What I'm Up To
+## 🚀 What I'm Up To
 
-* Developing **production-grade MLOps platforms** to detect and monitor data and model drift in real time.
-* Building AI solutions with a focus on interpretability and performance using tools like **SHAP**.
-* Integrating **Generative AI** models like Llama 3 for automated root-cause analysis.
+* Building and deploying MLOps platforms for real-time model monitoring. 📊
+* Developing AI solutions and ensuring they're transparent with Explainable AI tools. ✨
+* Integrating Generative AI models into applications. 🤖
 
 Check out my [coding portfolio](https://github.com/bhardwaj-yash1)!
 
 ---
 
-### 💡 About Me
+## 💡 About Me
 
-I'm also a core member of the Film and Theater Society at IIIT Bhubaneswar, where I've edited and produced over 15 event promotion videos. Additionally, I've led a media team for our annual fest and coordinated logistics for various events at the Advaita Techno-Cultural Fest.
+Beyond code, I'm a passionate **video editor** 🎬 with experience producing promotional content for college societies. I'm also skilled in **event management** 🤝, having managed logistics and led teams for various college events.
 
 ---
 
-### 🔗 Connect with me:
+## 🔗 Connect with me:
 
 <a href="https://www.linkedin.com/in/yash-bhardwaj" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
@@ -32,7 +32,7 @@ I'm also a core member of the Film and Theater Society at IIIT Bhubaneswar, wher
 
 ---
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 
 **Languages & Databases:**
 
